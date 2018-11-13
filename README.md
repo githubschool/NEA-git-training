@@ -1,4 +1,4 @@
-# GitHub for Developers
+# Git Essentials
 
 - Class Date: November 13 - 14, 2018
 - Facilitator: @a-a-ron
@@ -18,9 +18,8 @@ Please take a moment to complete the class survey at: https://goo.gl/MtewgD.
 
 ## Class Resources
 
-- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/)
-- [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
-
+- [Class outline](git-essentials-outline-customer.pdf)
+- [Developers Manual](https://githubtraining.github.io/training-manual/#/)
 
 ### Extended Resources 
 
@@ -41,6 +40,7 @@ Please take a moment to complete the class survey at: https://goo.gl/MtewgD.
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
 
 #### GitHub Documentation and Help
+- [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 - [GitHub Webcasts](https://resources.github.com/webcasts/)
 - [Authentication Troubleshooting Guide](https://help.github.com/categories/authenticating-to-github/)
 - [GitHub Help Documentation](https://help.github.com/)
@@ -69,5 +69,3 @@ Please take a moment to complete the class survey at: https://goo.gl/MtewgD.
 After you have completed this course, you are probably wondering where to go from here:
 
 - [GitHub Learning Lab](https://lab.github.com/)
-- [Recommended Path for Learning More](https://services.github.com/on-demand/resources/learning-path/)
-- [A Curated List of our Favorite Resources](https://services.github.com/on-demand/resources/)
