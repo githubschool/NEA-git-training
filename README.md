@@ -18,7 +18,7 @@ Please take a moment to complete the class survey at: https://goo.gl/MtewgD.
 
 ## Class Resources
 
-- [Class outline](git-essentials-outline-customer.pdf)
+- [git-essentials-outline-customer.pdf](https://github.com/github/services/files/2485038/git-essentials-outline-customer.pdf)
 - [Developers Manual](https://githubtraining.github.io/training-manual/#/)
 
 ### Extended Resources 
