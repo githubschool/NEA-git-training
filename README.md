@@ -20,6 +20,7 @@ Please take a moment to complete the class survey at: https://goo.gl/MtewgD.
 
 - [git-essentials-outline-customer.pdf](https://github.com/github/services/files/2485038/git-essentials-outline-customer.pdf)
 - [Developers Manual](https://githubtraining.github.io/training-manual/#/)
+- [tree command](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tree)
 
 ### Extended Resources 
 
