@@ -57,7 +57,11 @@ Please take a moment to complete the class survey at: https://goo.gl/MtewgD.
 
 #### Class Images
 - [Git Configuration Levels](https://services.github.com/on-demand/images/config-levels.jpg)
-- [The Two Stage Commit](https://services.github.com/on-demand/images/two-stage-commit-a.jpg)
+- [The Two Stage Commit](https://raw.githubusercontent.com/githubschool/NEA-git-training/master/images/2-stage-commit.png)
+- [Localized Git](https://raw.githubusercontent.com/githubschool/NEA-git-training/master/images/git-local.png)
+- [Local VCS](https://raw.githubusercontent.com/githubschool/NEA-git-training/master/images/local-vcs.png)
+- [Central VCS](https://raw.githubusercontent.com/githubschool/NEA-git-training/master/images/central-vcs.png)
+- [Distributed VCS](https://raw.githubusercontent.com/githubschool/NEA-git-training/master/images/distributed-vcs.png)
 - [Reset Modes](https://services.github.com/on-demand/images/reset-modes.jpg)
 
 
